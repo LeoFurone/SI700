@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AutorFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imageViewLeo"
+        android:layout_width="match_parent"
+        android:layout_height="119dp"
+        android:paddingTop="25dp"
+        android:contentDescription="Foto de Leonardo Furone"
+        android:src="@drawable/leo_furone"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/TextViewLeo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="Leonardo nasceu e foi criado em Taguaritinga no interior do estado de São Paulo, possui um irmão mais novo e em 2017 se mudou para Limeira para iniciar seus estudos em Sistemas de Informação na UNICAMP."
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#000000"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"/>
+
+    <ImageView
+        android:id="@+id/imageViewVe"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:paddingTop="25dp"
+        android:contentDescription="Foto de Verussa De Alencar"
+        android:src="@drawable/ve_alencar"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/TextViewVe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="Verussa De Alencar é natural da Arealva, um cidade pequena no centro oeste paulista, aos cinco anos se mudou para Itatiba ou fez ensino medio integrado ao tecnico pela ETEC Rosa Perrone Scavone e em 2017 iniciou a sua graduação em Sistemas de Informção pela UNICAMP."
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#000000"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"/>
+
+
+</LinearLayout>
