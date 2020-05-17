@@ -7,18 +7,14 @@
         <item
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_menu_camera"
-            android:title="Home" />
+            android:title="Dashboard" />
         <item
             android:id="@+id/autorFragment"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/autor" />
+            android:title="Cadastrar" />
         <item
             android:id="@+id/alunosFragment"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/alunos" />
-        <item
-            android:id="@+id/biografiaFragment"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Biografia" />
+            android:title="Relatório" />
     </group>
 </menu>
