@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/label_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:paddingTop="25dp"
+        android:text="@string/user" />
+
+    <EditText
+        android:id="@+id/edit_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/label_user"
+        android:paddingTop="23dp"
+        android:hint="@string/insira_o_user"
+        android:autofillHints=""
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/label_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/label_user"
+        android:paddingTop="25dp"
+        android:text="@string/e_mail" />
+
+    <EditText
+        android:id="@+id/edit_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_user"
+        android:hint="@string/insira_o_e_mail"
+        android:layout_toEndOf="@+id/label_email"
+        android:inputType="textEmailAddress"
+        android:autofillHints="" />
+
+    <TextView
+        android:id="@+id/label_senha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/label_email"
+        android:paddingTop="25dp"
+        android:text="@string/senha"
+        android:paddingBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/edit_senha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/insira_a_senha"
+        android:inputType="textPassword"
+        android:layout_below="@id/edit_email"
+        android:layout_toEndOf="@+id/label_senha"
+        android:autofillHints="" />
+
+    <RadioButton
+        android:id="@+id/termos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_send"
+        android:layout_centerHorizontal="true"
+        android:text="@string/eu_li_e_aceito_os_termos_de_uso" />
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/enviar"
+        android:onClick="registrar" />
+
+    <TextView
+        android:id="@+id/check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_senha"
+        android:paddingTop="25dp"
+        android:text="@string/qual_a_sua_liga_o_com_a_atletica"
+        android:paddingBottom="10dp"/>
+
+    <CheckBox
+        android:id="@+id/diretoria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/diretoria"
+        android:layout_alignParentStart="true"
+        android:paddingEnd="25dp"
+        android:layout_below="@id/check"
+        />
+
+    <CheckBox
+        android:id="@+id/alteta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/atleta"
+        android:layout_below="@id/check"
+        android:paddingEnd="25dp"
+        android:layout_toEndOf="@id/diretoria"
+        />
+
+    <CheckBox
+        android:id="@+id/socio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/socio"
+        android:layout_below="@id/check"
+        android:paddingEnd="25dp"
+        android:layout_toEndOf="@id/alteta"
+        />
+
+    <CheckBox
+        android:id="@+id/aluno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/aluno"
+        android:layout_below="@id/check"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@id/socio"
+        />
+</RelativeLayout>
