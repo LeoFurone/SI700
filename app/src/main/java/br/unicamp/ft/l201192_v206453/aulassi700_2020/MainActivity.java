@@ -1,25 +1,23 @@
-package br.unicamp.ft.l201192_v206453.aulassi700_2020;
+package br.unicamp.ft.l201192_v206453.trabalho01;
 
 import android.os.Bundle;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.Menu;
-
+import android.util.Log;
+import android.view.MenuItem;
+import android.widget.EditText;
+import android.widget.RadioButton;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
-import com.google.android.material.navigation.NavigationView;
-
-import androidx.navigation.NavController;
-import androidx.navigation.Navigation;
-import androidx.navigation.ui.AppBarConfiguration;
-import androidx.navigation.ui.NavigationUI;
-import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 public class MainActivity extends AppCompatActivity {
 
-    private AppBarConfiguration mAppBarConfiguration;
+    private EditText edit_user;
+    private EditText edit_email;
+    private EditText edit_senha;
+    private RadioButton termos;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -35,18 +34,11 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        DrawerLayout drawer = findViewById(R.id.drawer_layout);
-        NavigationView navigationView = findViewById(R.id.nav_view);
-        // Passing each menu ID as a set of Ids because each
-        // menu should be considered as top level destinations.
-        mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.autorFragment, R.id.alunosFragment, R.id.biografiaFragment,
-                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow)
-                .setDrawerLayout(drawer)
-                .build();
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
-        NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
-        NavigationUI.setupWithNavController(navigationView, navController);
+
+        edit_user    = findViewById(R.id.edit_user);
+        edit_email      = findViewById(R.id.edit_email);
+        edit_senha   = findViewById(R.id.edit_senha);
+        termos = findViewById(R.id.termos);
     }
 
     @Override
@@ -57,24 +49,24 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    public boolean onSupportNavigateUp() {
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
-        return NavigationUI.navigateUp(navController, mAppBarConfiguration)
-                || super.onSupportNavigateUp();
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item){
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        if (id == R.id.action_settings){
-            return true;
-        } else if (id == R.id.mailFragment){
-            NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
-            navController.navigate(R.id.mailFragment);
+        //noinspection SimplifiableIfStatement
+        if (id == R.id.action_settings) {
             return true;
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    public void registrar(View view) {
+        termos.isChecked();
+        Log.i("MainActivity", edit_user.getText().toString());
+        Log.i("MainActivity", edit_email.getText().toString());
+        Log.i("MainActivity", edit_senha.getText().toString());
     }
 }
