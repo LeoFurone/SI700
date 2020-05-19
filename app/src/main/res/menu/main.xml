@@ -7,10 +7,4 @@
         android:title="@string/action_settings"
         app:showAsAction="never" />
 
-    <item
-        android:id="@+id/mailFragment"
-        android:orderInCategory="100"
-        android:title="@string/mail"
-        app:showAsAction="never" />
-
 </menu>

@@ -1,286 +1,274 @@
 [
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kauan_da_silva.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\kauan_da_silva.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arthur_briganti_gini.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\arthur_briganti_gini.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_alunos.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\fragment_alunos.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shida.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\shida.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_henrique_augusto_rocha_oliveira.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\henrique_augusto_rocha_oliveira.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paloma.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\paloma.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_biografia.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\fragment_biografia.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marcelo_laendle_junior.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\marcelo_laendle_junior.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bil.jpg.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\bil.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_joao_vitor_dalkmin_basso.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\joao_vitor_dalkmin_basso.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rodrigo.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\rodrigo.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paiol.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\paiol.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_felipe_vieira_conti.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\felipe_vieira_conti.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bruno_rossetto_pereira.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\bruno_rossetto_pereira.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lorenzo.jpg.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\lorenzo.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_liguto.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\liguto.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ve_alencar.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\ve_alencar.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\anim\\fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_furone.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\furone.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gabriel_velasco_fernandes.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\gabriel_velasco_fernandes.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pc.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\pc.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_renan_felipe_maziero.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\renan_felipe_maziero.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tixa.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\tixa.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\anim\\fade_in.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_joao.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\joao.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_danielle_andrade.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\danielle_andrade.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lucca.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\lucca.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brenda_cristina_de_souza_silva.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\brenda_cristina_de_souza_silva.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\anim\\slide_out_left.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bruno_adegas.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\bruno_adegas.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_mail.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\fragment_mail.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_autor.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\fragment_autor.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lorenzo_chaves_vilas_boas.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\lorenzo_chaves_vilas_boas.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leo_furone.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\leo_furone.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diovan.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\diovan.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mariana_ramos_dos_santos.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\mariana_ramos_dos_santos.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\anim\\slide_in_left.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_joao_gabriel_de_oliveira.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\joao_gabriel_de_oliveira.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\anim\\fade_out.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laura_margaritelli_young_moreira.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\laura_margaritelli_young_moreira.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thami.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\thami.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_matheus_rosisca_padovani.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\matheus_rosisca_padovani.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_autor.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\fragment_autor.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cotil.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\cotil.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ponte.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\ponte.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_layout.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\adapter_layout.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_juliana_pinho_marchi.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\juliana_pinho_marchi.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_felipe.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\felipe.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ted.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\ted.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arthur_guedes_de_souza.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\arthur_guedes_de_souza.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leo_furone.jpg.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\leo_furone.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cristiano_jose_furlan.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\cristiano_jose_furlan.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toshi.jpg.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\toshi.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mateus_soraggi_battagin.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\mateus_soraggi_battagin.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_samuel_lahr_azorli.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\samuel_lahr_azorli.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\anim\\slide_in_right.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_biografia.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\fragment_biografia.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_lista.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\item_lista.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_igor_da_silva_gouvea.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\igor_da_silva_gouvea.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leandro_augusto_fabri_pereira.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\leandro_augusto_fabri_pereira.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_karina.jpg.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\karina.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carguinha.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\carguinha.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rosisca.jpg.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\rosisca.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_katherine_dos_santos_rocha.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\katherine_dos_santos_rocha.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ve_alencar.jpg.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\ve_alencar.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grena.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\grena.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verussa.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\verussa.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_layout.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\adapter_layout.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leonardo_henrique_furone.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\leonardo_henrique_furone.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\anim\\fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unica.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\unica.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cleyvesson_gomes_da_silva.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\cleyvesson_gomes_da_silva.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verussa_de_alencar_caridi.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\verussa_de_alencar_caridi.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mineiro.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\mineiro.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_alunos.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\fragment_alunos.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leticia_sousa_de_oliveira.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\leticia_sousa_de_oliveira.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\anim\\slide_out_right.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_mail.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\fragment_mail.xml"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vinicius_vilas_boas.jpg.flat",
-        "source": "C:\\Users\\user\\Desktop\\AulasSI700_2020\\app\\src\\main\\res\\drawable\\vinicius_vilas_boas.jpg"
+        "merged": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\user\\Documents\\GitHub\\SI700\\app\\src\\main\\res\\layout\\content_main.xml"
     }
 ]

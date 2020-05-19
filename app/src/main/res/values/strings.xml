@@ -3,11 +3,11 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_subtitle">Associação Atlética Acadêmica Tecnologia Unicamp</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="menu_home">Dashboard</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
 
@@ -20,71 +20,75 @@
     <string name="biografia">Biografia</string>
     <string name="mail">Enviar mensagem</string>
     <string name="nome_description">Imagem do aluno</string>
+    <string name="user">"Nome: "</string>
+    <string name="insira_o_user">Insira o nome</string>
+    <string name="e_mail">"E-mail: "</string>
+    <string name="insira_o_e_mail">Insira o e-mail</string>
+    <string name="eu_li_e_aceito_os_termos_de_uso">Quero participar da torcida organizada</string>
+    <string name="enviar">Enviar</string>
+    <string name="qual_a_sua_liga_o_com_a_atletica">Qual a sua ligação com a Atlética?</string>
+    <string name="diretoria">Diretoria</string>
+    <string name="atleta">Atleta</string>
+    <string name="socio">Sócio</string>
+    <string name="aluno">Aluno</string>
 
     <array name="fotos">
-        <item>@drawable/arthur_briganti_gini</item>
-        <item>@drawable/arthur_guedes_de_souza</item>
-        <item>@drawable/brenda_cristina_de_souza_silva</item>
-        <item>@drawable/bruno_adegas</item>
-        <item>@drawable/bruno_rossetto_pereira</item>
-        <item>@drawable/cleyvesson_gomes_da_silva</item>
-        <item>@drawable/cristiano_jose_furlan</item>
-        <item>@drawable/danielle_andrade</item>
-        <item>@drawable/felipe_vieira_conti</item>
-        <item>@drawable/gabriel_velasco_fernandes</item>
-        <item>@drawable/henrique_augusto_rocha_oliveira</item>
-        <item>@drawable/igor_da_silva_gouvea</item>
-        <item>@drawable/joao_gabriel_de_oliveira</item>
-        <item>@drawable/joao_vitor_dalkmin_basso</item>
-        <item>@drawable/juliana_pinho_marchi</item>
-        <item>@drawable/katherine_dos_santos_rocha</item>
-        <item>@drawable/kauan_da_silva</item>
-        <item>@drawable/laura_margaritelli_young_moreira</item>
-        <item>@drawable/leandro_augusto_fabri_pereira</item>
-        <item>@drawable/leonardo_henrique_furone</item>
-        <item>@drawable/leticia_sousa_de_oliveira</item>
-        <item>@drawable/lorenzo_chaves_vilas_boas</item>
-        <item>@drawable/marcelo_laendle_junior</item>
-        <item>@drawable/mariana_ramos_dos_santos</item>
-        <item>@drawable/mateus_soraggi_battagin</item>
-        <item>@drawable/matheus_rosisca_padovani</item>
-        <item>@drawable/renan_felipe_maziero</item>
-        <item>@drawable/samuel_lahr_azorli</item>
-        <item>@drawable/verussa_de_alencar_caridi</item>
-        <item>@drawable/vinicius_vilas_boas</item>
+        <item>@drawable/furone</item>
+        <item>@drawable/lucca</item>
+        <item>@drawable/verussa</item>
+        <item>@drawable/toshi</item>
+        <item>@drawable/bil</item>
+        <item>@drawable/karina</item>
+        <item>@drawable/rosisca</item>
+        <item>@drawable/lorenzo</item>
+        <item>@drawable/carguinha</item>
+        <item>@drawable/paloma</item>
+        <item>@drawable/tixa</item>
+        <item>@drawable/ponte</item>
+        <item>@drawable/ted</item>
+        <item>@drawable/grena</item>
+        <item>@drawable/felipe</item>
+        <item>@drawable/pc</item>
+        <item>@drawable/shida</item>
+        <item>@drawable/unica</item>
+        <item>@drawable/rodrigo</item>
+        <item>@drawable/paiol</item>
+        <item>@drawable/liguto</item>
+        <item>@drawable/joao</item>
+        <item>@drawable/diovan</item>
+        <item>@drawable/mineiro</item>
+        <item>@drawable/cotil</item>
+        <item>@drawable/thami</item>
     </array>
 
     <string-array name="nomes">
-        <item>Arthur Briganti Gini,0,0</item>
-        <item>Arthur Guedes De Souza,21,0</item>
-        <item>Brenda Cristina De Souza Silva,0,1</item>
-        <item>Bruno Adegas,20,2</item>
-        <item>Bruno Rossetto Pereira,22,1</item>
-        <item>Cleyvesson Gomes Da Silva,26,1</item>
-        <item>Cristiano José Furlan,19,2</item>
-        <item>Danielle Andrade,24,1</item>
-        <item>Felipe Vieira Conti,0,0</item>
-        <item>Gabriel Velasco Fernandes,22,0</item>
-        <item>Henrique Augusto Rocha Oliveira,21,0</item>
-        <item>Igor Da Silva Gouvea,22,0</item>
-        <item>João Gabriel De Oliveira,20,0</item>
-        <item>João Vitor Dalkmin Basso,20,0</item>
-        <item>Juliana Pinho Marchi,20,0</item>
-        <item>Katherine dos Santos Rocha,0,0</item>
-        <item>Kauan Da Silva,19,0</item>
-        <item>Laura Margaritelli Young Moreira,0,0</item>
-        <item>Leandro Augusto Fabri Pereira,23,0</item>
-        <item>Leonardo Henrique Furone,0,0</item>
-        <item>Letícia Sousa De Oliveira,20,0</item>
-        <item>Lorenzo Chaves Vilas Boas,0,0</item>
-        <item>Marcelo Laendle Junior,20,0</item>
-        <item>Mariana Ramos Dos Santos,21,0</item>
-        <item>Mateus Soraggi Battagin,20,0</item>
-        <item>Matheus Rosisca Padovani,0,0</item>
-        <item>Renan Felipe Maziero,0,0</item>
-        <item>Samuel Lahr Azorli,21,0</item>
-        <item>Verussa De Alencar Caridi,0,0</item>
-        <item>Vinícius Vilas Boas,20,0</item>
+        <item>Furone,Presidente</item>
+        <item>Lucca,Vice-Presidente</item>
+        <item>Verussa,Secretária</item>
+        <item>Toshi,Financeiro</item>
+        <item>Rodrigo,Financeiro</item>
+        <item>Karina,Financeiro</item>
+        <item>Rosisca,Parcerias</item>
+        <item>Lorenzo,Parcerias</item>
+        <item>Carguinha,Esportes</item>
+        <item>Paloma,Esportes</item>
+        <item>Tixa,Esportes</item>
+        <item>Ponte,Esportes</item>
+        <item>Ted,Eventos</item>
+        <item>Grená,Eventos</item>
+        <item>Felipe,Eventos</item>
+        <item>PC,Marketing</item>
+        <item>Shida,Marketing</item>
+        <item>Unica,Comunicação</item>
+        <item>Rodrigo,Comunicação</item>
+        <item>Paiol,Social</item>
+        <item>Liguto,E-Sports</item>
+        <item>João,E-Sports</item>
+        <item>Diovan,E-Sports</item>
+        <item>Mineiro,Conselho</item>
+        <item>Cotil,Conselho</item>
+        <item>Thami,Conselho</item>
+
     </string-array>
 
 </resources>

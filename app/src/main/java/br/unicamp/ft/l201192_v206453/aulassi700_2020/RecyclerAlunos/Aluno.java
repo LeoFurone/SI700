@@ -8,20 +8,17 @@ import br.unicamp.ft.l201192_v206453.aulassi700_2020.R;
 public class Aluno {
     private String nome;
     private int foto;
-    private int idade;
-    private int tipo;
+    private String cargo;
 
-    public Aluno(String nome, int idade, int tipo, int foto){
+    public Aluno(String nome, String cargo, int foto) {
         this.nome = nome;
-        this.idade = idade;
-        this.tipo = tipo;
+        this.cargo = cargo;
         this.foto = foto;
     }
 
     public String getNome(){return nome;}
     public int getFoto(){return foto;}
-    public int getIdade(){return idade;}
-    public int getTipo(){return tipo;}
+    public String getCargo(){return cargo;}
 
     public static Aluno[] getAlunos(Context context){
         if (context != null){
@@ -33,8 +30,7 @@ public class Aluno {
                 String[] info = infos[i].split(",");
                 alunos[i]= new Aluno(
                         info[0],
-                        Integer.parseInt(info[1]),
-                        Integer.parseInt(info[2]),
+                        info[1],
                         fotos.getResourceId(i, 0)
                 );
             }

@@ -6,19 +6,13 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Home" />
+            android:title="Dashboad"/>
         <item
             android:id="@+id/autorFragment"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/autor" />
+            android:title="Cadastrar usuário" />
         <item
             android:id="@+id/alunosFragment"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/alunos" />
-        <item
-            android:id="@+id/biografiaFragment"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Biografia" />
+            android:title="Diretoria" />
+
     </group>
 </menu>

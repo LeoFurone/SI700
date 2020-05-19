@@ -1,22 +1,17 @@
 package br.unicamp.ft.l201192_v206453.aulassi700_2020.RecyclerAlunos;
 
-import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.w3c.dom.Text;
-
 import java.util.ArrayList;
 
-import br.unicamp.ft.l201192_v206453.aulassi700_2020.AlunosFragment;
 import br.unicamp.ft.l201192_v206453.aulassi700_2020.R;
 
 public class MyFirstAdapter extends RecyclerView.Adapter {
@@ -84,12 +79,7 @@ public class MyFirstAdapter extends RecyclerView.Adapter {
         public void bind(Aluno aluno){
             imageView.setImageResource(aluno.getFoto());
             nomeAluno.setText(aluno.getNome());
-            idadeAluno.setText(Integer.toString(aluno.getIdade()));
-            if (aluno.getTipo() == 1){
-                linear.setBackgroundColor(Color.rgb(255,186,186));
-            } else if (aluno.getTipo() == 2) {
-                linear.setBackgroundColor(Color.rgb(186,203,255));
-            }
+            idadeAluno.setText(aluno.getCargo());
         }
     }
 }

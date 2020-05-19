@@ -13,26 +13,8 @@
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home">
 
-        <action
-            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
-            app:destination="@id/nav_home_second" />
     </fragment>
 
-    <fragment
-        android:id="@+id/nav_home_second"
-        android:name="br.unicamp.ft.l201192_v206453.aulassi700_2020.ui.home.HomeSecondFragment"
-        android:label="@string/home_second"
-        tools:layout="@layout/fragment_home_second">
-        <action
-            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
-            app:destination="@id/nav_home"
-
-            />
-
-        <argument
-            android:name="myArg"
-            app:argType="string" />
-    </fragment>
 
     <fragment
         android:id="@+id/nav_gallery"
@@ -53,16 +35,13 @@
     <fragment
         android:id="@+id/autorFragment"
         android:name="br.unicamp.ft.l201192_v206453.aulassi700_2020.AutorFragment"
-        android:label="fragment_autor"
+        android:label="Cadastro de Usuários"
         tools:layout="@layout/fragment_autor" >
-        <action
-            android:id="@+id/minhaAresta"
-            app:destination="@id/nav_home_second" />
     </fragment>
     <fragment
         android:id="@+id/alunosFragment"
         android:name="br.unicamp.ft.l201192_v206453.aulassi700_2020.AlunosFragment"
-        android:label="fragment_alunos"
+        android:label="Diretores"
         tools:layout="@layout/fragment_alunos" />
     <fragment
         android:id="@+id/mailFragment"
